@@ -1,0 +1,4 @@
+H:\ASP.Net\DailyExpenses\Releases\Trim\appsettings.Development.json
+H:\ASP.Net\DailyExpenses\Releases\Trim\appsettings.json
+H:\ASP.Net\DailyExpenses\Releases\Trim\DailyExpenses.pdb
+H:\ASP.Net\DailyExpenses\Releases\Trim\DailyExpenses

@@ -1,0 +1,4 @@
+H:\ASP.Net\DailyExpenses\Releases\Single\appsettings.Development.json
+H:\ASP.Net\DailyExpenses\Releases\Single\appsettings.json
+H:\ASP.Net\DailyExpenses\Releases\Single\DailyExpenses.pdb
+H:\ASP.Net\DailyExpenses\Releases\Single\DailyExpenses
