@@ -1,4 +1,4 @@
-name: daily-expence
+name: DailyExpenses
 on:
   push: 
      branches:
